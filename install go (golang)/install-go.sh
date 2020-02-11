@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Jonathan Hanley 117473096
-# Colin Kelleher 117303363
-
 # updating and upgrading the installed packages using apt-get.
 echo updating and upgrading the installed packages
 sudo apt-get upgrade
